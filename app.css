@@ -1,14 +1,5 @@
-h2 {
-    color: teal;
-    background-color: rgb(156, 144, 133);
-}
-
-button {
-    color: magenta;
-    background-color: cyan;
-}
-
-p {
-    color: olive;
-    background: orange;
+div {
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
 }
